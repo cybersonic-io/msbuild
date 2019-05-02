@@ -1,7 +1,5 @@
 FROM microsoft/windowsservercore:10.0.14393.206
-MAINTAINER alexellis2@gmail.com
-
-# docker push alexellisio/msbuild:12.0
+MAINTAINER info@cybersonic.io
 
 SHELL ["powershell"]
 
